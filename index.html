@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Chatbot</title>
+</head>
+<body>
+    <h1>Travel Chatbot</h1>
+    <form method="POST" id="travel-form">
+        <label for="days">Number of days for travel:</label>
+        <input type="number" name="days" required><br>
+        <label for="budget">Budget (INR):</label>
+        <input type="number" name="budget" required><br>
+        <button type="submit">Submit</button> <!-- Use a button element -->
+    </form>
+    <h2>Recommended Destinations:</h2>
+    <ul id="recommended-destinations">
+        <!-- Recommended destinations will be displayed here -->
+    </ul>
+
+    <script>
+        // Handle form submission
+        document.getElementById("travel-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            const days = document.querySelector("input[name='days']").value;
+            const budget = document.querySelector("input[name='budget']").value;
+
+            fetch("/", {
+                method: "POST",
+                body: new FormData(this),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display recommended destinations
+                const recommendedDestinations = document.getElementById("recommended-destinations");
+                recommendedDestinations.innerHTML = "<h3>Recommended Destinations:</h3>";
+
+                for (const city in data) {
+                    const cityDescription = data[city].description;
+                    const cityListItem = document.createElement("li");
+                    cityListItem.textContent = `City: ${city}, ${cityDescription}`;
+                    recommendedDestinations.appendChild(cityListItem);
+
+                    data[city].itinerary.forEach(item => {
+                        const listItem = document.createElement("li");
+                        listItem.textContent = item;
+                        recommendedDestinations.appendChild(listItem);
+                    });
+                }
+            })
+            .catch(error => {
+                console.error("Error:", error);
+            });
+        });
+    </script>
+</body>
+</html>

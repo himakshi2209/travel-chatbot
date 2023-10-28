@@ -1,0 +1,743 @@
+{
+    "Delhi": [
+      {
+        "to": "Agra",
+        "airline": "Air India",
+        "flight_number": "AI101",
+        "departure_time": "08:00 AM",
+        "arrival_time": "09:00 AM",
+        "price": 1500
+      },
+      {
+        "to": "Shimla",
+        "airline": "SpiceJet",
+        "flight_number": "SG202",
+        "departure_time": "10:30 AM",
+        "arrival_time": "11:45 AM",
+        "price": 2000
+      },
+      {
+        "to": "Amritsar",
+        "airline": "IndiGo",
+        "flight_number": "6E303",
+        "departure_time": "12:30 PM",
+        "arrival_time": "01:45 PM",
+        "price": 1800
+      },
+      {
+        "to": "Jaipur",
+        "airline": "Air Asia",
+        "flight_number": "AA505",
+        "departure_time": "03:00 PM",
+        "arrival_time": "04:15 PM",
+        "price": 1700
+      },
+      {
+        "to": "Goa",
+        "airline": "GoAir",
+        "flight_number": "G801",
+        "departure_time": "06:15 PM",
+        "arrival_time": "08:00 PM",
+        "price": 2500
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Vistara",
+        "flight_number": "UK701",
+        "departure_time": "09:30 PM",
+        "arrival_time": "11:45 PM",
+        "price": 2800
+      },
+      {
+        "to": "Kochi",
+        "airline": "Air India",
+        "flight_number": "AI801",
+        "departure_time": "11:00 PM",
+        "arrival_time": "01:30 AM",
+        "price": 2900
+      },
+      {
+        "to": "Mumbai",
+        "airline": "IndiGo",
+        "flight_number": "6E401",
+        "departure_time": "02:30 AM",
+        "arrival_time": "04:45 AM",
+        "price": 2000
+      },
+      {
+        "to": "Chennai",
+        "airline": "SpiceJet",
+        "flight_number": "SG601",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:45 AM",
+        "price": 2200
+      }]
+    ,
+    "Agra": [
+      {
+        "to": "Delhi",
+        "airline": "Air India",
+        "flight_number": "AI102",
+        "departure_time": "08:30 AM",
+        "arrival_time": "09:30 AM",
+        "price": 1600
+      },
+      {
+        "to": "Shimla",
+        "airline": "IndiGo",
+        "flight_number": "6E202",
+        "departure_time": "10:45 AM",
+        "arrival_time": "12:00 PM",
+        "price": 1900
+      },
+      {
+        "to": "Amritsar",
+        "airline": "SpiceJet",
+        "flight_number": "SG303",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:15 PM",
+        "price": 1700
+      },
+      {
+        "to": "Jaipur",
+        "airline": "Air Asia",
+        "flight_number": "AA506",
+        "departure_time": "03:30 PM",
+        "arrival_time": "04:45 PM",
+        "price": 1600
+      },
+      {
+        "to": "Goa",
+        "airline": "GoAir",
+        "flight_number": "G802",
+        "departure_time": "07:00 PM",
+        "arrival_time": "08:45 PM",
+        "price": 2400
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Vistara",
+        "flight_number": "UK702",
+        "departure_time": "10:15 PM",
+        "arrival_time": "12:30 AM",
+        "price": 2800
+      },
+      {
+        "to": "Kochi",
+        "airline": "Air India",
+        "flight_number": "AI802",
+        "departure_time": "01:30 AM",
+        "arrival_time": "03:45 AM",
+        "price": 2900
+      },
+      {
+        "to": "Mumbai",
+        "airline": "IndiGo",
+        "flight_number": "6E402",
+        "departure_time": "04:30 AM",
+        "arrival_time": "06:45 AM",
+        "price": 2100
+      },
+      {
+        "to": "Chennai",
+        "airline": "SpiceJet",
+        "flight_number": "SG602",
+        "departure_time": "07:30 AM",
+        "arrival_time": "09:45 AM",
+        "price": 2300
+      }
+    ],
+    "Shimla": [
+      {
+        "to": "Delhi",
+        "airline": "SpiceJet",
+        "flight_number": "SG203",
+        "departure_time": "11:00 AM",
+        "arrival_time": "12:15 PM",
+        "price": 1800
+      },
+      {
+        "to": "Agra",
+        "airline": "IndiGo",
+        "flight_number": "6E201",
+        "departure_time": "01:30 PM",
+        "arrival_time": "02:45 PM",
+        "price": 1900
+      },
+      {
+        "to": "Amritsar",
+        "airline": "GoAir",
+        "flight_number": "G303",
+        "departure_time": "04:00 PM",
+        "arrival_time": "05:15 PM",
+        "price": 1700
+      },
+      {
+        "to": "Jaipur",
+        "airline": "Air India",
+        "flight_number": "AI504",
+        "departure_time": "06:30 PM",
+        "arrival_time": "07:45 PM",
+        "price": 1600
+      },
+      {
+        "to": "Goa",
+        "airline": "Air Asia",
+        "flight_number": "AA801",
+        "departure_time": "08:45 PM",
+        "arrival_time": "10:30 PM",
+        "price": 2500
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Vistara",
+        "flight_number": "UK703",
+        "departure_time": "11:30 PM",
+        "arrival_time": "01:45 AM",
+        "price": 2800
+      },
+      {
+        "to": "Kochi",
+        "airline": "SpiceJet",
+        "flight_number": "SG801",
+        "departure_time": "02:00 AM",
+        "arrival_time": "04:30 AM",
+        "price": 2900
+      },
+      {
+        "to": "Mumbai",
+        "airline": "GoAir",
+        "flight_number": "G401",
+        "departure_time": "05:15 AM",
+        "arrival_time": "07:30 AM",
+        "price": 2100
+      },
+      {
+        "to": "Chennai",
+        "airline": "Air India",
+        "flight_number": "AI601",
+        "departure_time": "08:30 AM",
+        "arrival_time": "10:45 AM",
+        "price": 2300
+      }
+    ],
+    "Amritsar": [
+      {
+        "to": "Delhi",
+        "airline": "IndiGo",
+        "flight_number": "6E302",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:15 AM",
+        "price": 1700
+      },
+      {
+        "to": "Agra",
+        "airline": "SpiceJet",
+        "flight_number": "SG304",
+        "departure_time": "11:30 AM",
+        "arrival_time": "12:45 PM",
+        "price": 1800
+      },
+      {
+        "to": "Shimla",
+        "airline": "GoAir",
+        "flight_number": "G304",
+        "departure_time": "01:00 PM",
+        "arrival_time": "02:15 PM",
+        "price": 1600
+      },
+      {
+        "to": "Jaipur",
+        "airline": "Air Asia",
+        "flight_number": "AA507",
+        "departure_time": "03:45 PM",
+        "arrival_time": "05:00 PM",
+        "price": 1500
+      },
+      {
+        "to": "Goa",
+        "airline": "Vistara",
+        "flight_number": "UK804",
+        "departure_time": "06:30 PM",
+        "arrival_time": "08:45 PM",
+        "price": 2500
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Air India",
+        "flight_number": "AI701",
+        "departure_time": "09:45 PM",
+        "arrival_time": "12:00 AM",
+        "price": 2800
+      },
+      {
+        "to": "Kochi",
+        "airline": "IndiGo",
+        "flight_number": "6E501",
+        "departure_time": "01:15 AM",
+        "arrival_time": "03:30 AM",
+        "price": 2900
+      },
+      {
+        "to": "Mumbai",
+        "airline": "SpiceJet",
+        "flight_number": "SG701",
+        "departure_time": "04:45 AM",
+        "arrival_time": "07:00 AM",
+        "price": 2200
+      },
+      {
+        "to": "Chennai",
+        "airline": "GoAir",
+        "flight_number": "G501",
+        "departure_time": "08:30 AM",
+        "arrival_time": "10:45 AM",
+        "price": 2400
+      }
+    ],
+    "Jaipur": [
+      {
+        "to": "Delhi",
+        "airline": "Air Asia",
+        "flight_number": "AA501",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:15 AM",
+        "price": 1600
+      },
+      {
+        "to": "Agra",
+        "airline": "Air India",
+        "flight_number": "AI502",
+        "departure_time": "12:30 PM",
+        "arrival_time": "01:45 PM",
+        "price": 1700
+      },
+      {
+        "to": "Shimla",
+        "airline": "Air India",
+        "flight_number": "AI503",
+        "departure_time": "03:00 PM",
+        "arrival_time": "04:15 PM",
+        "price": 1800
+      },
+      {
+        "to": "Amritsar",
+        "airline": "Air Asia",
+        "flight_number": "AA508",
+        "departure_time": "05:30 PM",
+        "arrival_time": "06:45 PM",
+        "price": 1500
+      },
+      {
+        "to": "Goa",
+        "airline": "GoAir",
+        "flight_number": "G803",
+        "departure_time": "08:00 PM",
+        "arrival_time": "09:15 PM",
+        "price": 2400
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Vistara",
+        "flight_number": "UK801",
+        "departure_time": "10:30 PM",
+        "arrival_time": "11:45 PM",
+        "price": 2800
+      },
+      {
+        "to": "Kochi",
+        "airline": "SpiceJet",
+        "flight_number": "SG802",
+        "departure_time": "12:00 AM",
+        "arrival_time": "02:15 AM",
+        "price": 2900
+      },
+      {
+        "to": "Mumbai",
+        "airline": "GoAir",
+        "flight_number": "G402",
+        "departure_time": "03:15 AM",
+        "arrival_time": "05:30 AM",
+        "price": 2100
+      },
+      {
+        "to": "Chennai",
+        "airline": "IndiGo",
+        "flight_number": "6E601",
+        "departure_time": "06:45 AM",
+        "arrival_time": "09:00 AM",
+        "price": 2300
+      }
+    ],
+    "Goa": [
+      {
+        "to": "Delhi",
+        "airline": "GoAir",
+        "flight_number": "G801",
+        "departure_time": "09:00 AM",
+        "arrival_time": "10:45 AM",
+        "price": 2500
+      },
+      {
+        "to": "Agra",
+        "airline": "Vistara",
+        "flight_number": "UK803",
+        "departure_time": "11:30 AM",
+        "arrival_time": "01:15 PM",
+        "price": 2600
+      },
+      {
+        "to": "Shimla",
+        "airline": "Air Asia",
+        "flight_number": "AA802",
+        "departure_time": "01:45 PM",
+        "arrival_time": "03:30 PM",
+        "price": 2300
+      },
+      {
+        "to": "Amritsar",
+        "airline": "GoAir",
+        "flight_number": "G802",
+        "departure_time": "04:00 PM",
+        "arrival_time": "05:45 PM",
+        "price": 2400
+      },
+      {
+        "to": "Jaipur",
+        "airline": "Vistara",
+        "flight_number": "UK804",
+        "departure_time": "06:15 PM",
+        "arrival_time": "07:30 PM",
+        "price": 2500
+      },
+      {
+        "to": "Bangalore",
+        "airline": "IndiGo",
+        "flight_number": "6E801",
+        "departure_time": "08:45 PM",
+        "arrival_time": "10:30 PM",
+        "price": 2800
+      },
+      {
+        "to": "Kochi",
+        "airline": "Air India",
+        "flight_number": "AI901",
+        "departure_time": "11:00 PM",
+        "arrival_time": "01:15 AM",
+        "price": 2900
+      },
+      {
+        "to": "Mumbai",
+        "airline": "SpiceJet",
+        "flight_number": "SG901",
+        "departure_time": "02:30 AM",
+        "arrival_time": "04:45 AM",
+        "price": 2200
+      },
+      {
+        "to": "Chennai",
+        "airline": "GoAir",
+        "flight_number": "G601",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:45 AM",
+        "price": 2400
+      }
+    ],
+    "Bangalore": [
+      {
+        "to": "Delhi",
+        "airline": "IndiGo",
+        "flight_number": "6E801",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:45 AM",
+        "price": 2600
+      },
+      {
+        "to": "Agra",
+        "airline": "Air Asia",
+        "flight_number": "AA804",
+        "departure_time": "12:30 PM",
+        "arrival_time": "01:45 PM",
+        "price": 2400
+      },
+      {
+        "to": "Shimla",
+        "airline": "Vistara",
+        "flight_number": "UK802",
+        "departure_time": "03:00 PM",
+        "arrival_time": "04:45 PM",
+        "price": 2300
+      },
+      {
+        "to": "Amritsar",
+        "airline": "GoAir",
+        "flight_number": "G702",
+        "departure_time": "05:30 PM",
+        "arrival_time": "06:45 PM",
+        "price": 2200
+      },
+      {
+        "to": "Jaipur",
+        "airline": "Vistara",
+        "flight_number": "UK801",
+        "departure_time": "08:00 PM",
+        "arrival_time": "09:15 PM",
+        "price": 2400
+      },
+      {
+        "to": "Goa",
+        "airline": "IndiGo",
+        "flight_number": "6E802",
+        "departure_time": "10:45 PM",
+        "arrival_time": "12:30 AM",
+        "price": 2700
+      },
+      {
+        "to": "Kochi",
+        "airline": "SpiceJet",
+        "flight_number": "SG803",
+        "departure_time": "01:00 AM",
+        "arrival_time": "03:15 AM",
+        "price": 2800
+      },
+      {
+        "to": "Mumbai",
+        "airline": "Air India",
+        "flight_number": "AI801",
+        "departure_time": "04:30 AM",
+        "arrival_time": "06:45 AM",
+        "price": 2100
+      },
+      {
+        "to": "Chennai",
+        "airline": "Air Asia",
+        "flight_number": "AA901",
+        "departure_time": "07:30 AM",
+        "arrival_time": "09:45 AM",
+        "price": 2200
+      }
+    ],
+    "Kochi": [
+      {
+        "to": "Delhi",
+        "airline": "Air India",
+        "flight_number": "AI901",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:45 AM",
+        "price": 2900
+      },
+      {
+        "to": "Agra",
+        "airline": "SpiceJet",
+        "flight_number": "SG802",
+        "departure_time": "12:30 PM",
+        "arrival_time": "02:45 PM",
+        "price": 2800
+      },
+      {
+        "to": "Shimla",
+        "airline": "Air India",
+        "flight_number": "AI803",
+        "departure_time": "03:00 PM",
+        "arrival_time": "05:15 PM",
+        "price": 2900
+      },
+      {
+        "to": "Amritsar",
+        "airline": "IndiGo",
+        "flight_number": "6E501",
+        "departure_time": "06:30 PM",
+        "arrival_time": "08:45 PM",
+        "price": 2600
+      },
+      {
+        "to": "Jaipur",
+        "airline": "SpiceJet",
+        "flight_number": "SG801",
+        "departure_time": "09:00 PM",
+        "arrival_time": "11:15 PM",
+        "price": 2400
+      },
+      {
+        "to": "Goa",
+        "airline": "Air India",
+        "flight_number": "AI902",
+        "departure_time": "11:30 PM",
+        "arrival_time": "01:45 AM",
+        "price": 2700
+      },
+      {
+        "to": "Bangalore",
+        "airline": "SpiceJet",
+        "flight_number": "SG803",
+        "departure_time": "02:30 AM",
+        "arrival_time": "04:45 AM",
+        "price": 2200
+      },
+      {
+        "to": "Mumbai",
+        "airline": "IndiGo",
+        "flight_number": "6E901",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:45 AM",
+        "price": 2300
+      },
+      {
+        "to": "Chennai",
+        "airline": "Vistara",
+        "flight_number": "UK901",
+        "departure_time": "08:00 AM",
+        "arrival_time": "10:15 AM",
+        "price": 2500
+      }
+    ],
+    "Mumbai": [
+      {
+        "to": "Delhi",
+        "airline": "IndiGo",
+        "flight_number": "6E401",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:45 AM",
+        "price": 2200
+      },
+      {
+        "to": "Agra",
+        "airline": "SpiceJet",
+        "flight_number": "SG701",
+        "departure_time": "12:30 PM",
+        "arrival_time": "01:45 PM",
+        "price": 2300
+      },
+      {
+        "to": "Shimla",
+        "airline": "GoAir",
+        "flight_number": "G401",
+        "departure_time": "03:00 PM",
+        "arrival_time": "04:15 PM",
+        "price": 2100
+      },
+      {
+        "to": "Amritsar",
+        "airline": "SpiceJet",
+        "flight_number": "SG701",
+        "departure_time": "05:30 PM",
+        "arrival_time": "06:45 PM",
+        "price": 2200
+      },
+      {
+        "to": "Jaipur",
+        "airline": "GoAir",
+        "flight_number": "G402",
+        "departure_time": "08:00 PM",
+        "arrival_time": "09:15 PM",
+        "price": 2400
+      },
+      {
+        "to": "Goa",
+        "airline": "Air India",
+        "flight_number": "AI701",
+        "departure_time": "10:30 PM",
+        "arrival_time": "11:45 PM",
+        "price": 2600
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Air India",
+        "flight_number": "AI801",
+        "departure_time": "12:00 AM",
+        "arrival_time": "02:15 AM",
+        "price": 2700
+      },
+      {
+        "to": "Kochi",
+        "airline": "IndiGo",
+        "flight_number": "6E901",
+        "departure_time": "02:30 AM",
+        "arrival_time": "04:45 AM",
+        "price": 2300
+      },
+      {
+        "to": "Chennai",
+        "airline": "Vistara",
+        "flight_number": "UK901",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:45 AM",
+        "price": 2500
+      }
+    ],
+    "Chennai": [
+      {
+        "to": "Delhi",
+        "airline": "SpiceJet",
+        "flight_number": "SG601",
+        "departure_time": "09:30 AM",
+        "arrival_time": "11:45 AM",
+        "price": 2300
+      },
+      {
+        "to": "Agra",
+        "airline": "Air India",
+        "flight_number": "AI601",
+        "departure_time": "12:30 PM",
+        "arrival_time": "01:45 PM",
+        "price": 2400
+      },
+      {
+        "to": "Shimla",
+        "airline": "GoAir",
+        "flight_number": "G501",
+        "departure_time": "03:00 PM",
+        "arrival_time": "04:15 PM",
+        "price": 2200
+      },
+      {
+        "to": "Amritsar",
+        "airline": "GoAir",
+        "flight_number": "G601",
+        "departure_time": "05:30 PM",
+        "arrival_time": "06:45 PM",
+        "price": 2400
+      },
+      {
+        "to": "Jaipur",
+        "airline": "IndiGo",
+        "flight_number": "6E601",
+        "departure_time": "08:00 PM",
+        "arrival_time": "09:15 PM",
+        "price": 2500
+      },
+      {
+        "to": "Goa",
+        "airline": "Vistara",
+        "flight_number": "UK901",
+        "departure_time": "10:30 PM",
+        "arrival_time": "11:45 PM",
+        "price": 2600
+      },
+      {
+        "to": "Bangalore",
+        "airline": "Air Asia",
+        "flight_number": "AA901",
+        "departure_time": "12:00 AM",
+        "arrival_time": "02:15 AM",
+        "price": 2700
+      },
+      {
+        "to": "Kochi",
+        "airline": "Vistara",
+        "flight_number": "UK902",
+        "departure_time": "02:30 AM",
+        "arrival_time": "04:45 AM",
+        "price": 2800
+      },
+      {
+        "to": "Mumbai",
+        "airline": "Vistara",
+        "flight_number": "UK902",
+        "departure_time": "05:30 AM",
+        "arrival_time": "07:45 AM",
+        "price": 2900
+      }
+    ]
+  }
+  

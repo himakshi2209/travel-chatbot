@@ -1,0 +1,668 @@
+{
+  "Delhi": [
+      {
+          "to": "Mumbai",
+          "train_name": "Mumbai Rajdhani",
+          "train_number": "12951",
+          "departure_time": "02:30 PM",
+          "arrival_time": "03:00 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Agra",
+          "train_name": "Mumbai Rajdhani",
+          "train_number": "12952",
+          "departure_time": "04:00 PM",
+          "arrival_time": "04:30 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Mumbai Express",
+          "train_number": "14563",
+          "departure_time": "05:30 PM",
+          "arrival_time": "06:00 AM (next day)",
+          "price": 1100
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Amritsar-Mumbai Express",
+          "train_number": "14564",
+          "departure_time": "07:00 PM",
+          "arrival_time": "07:30 AM (next day)",
+          "price": 1100
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Mumbai Express",
+          "train_number": "12957",
+          "departure_time": "08:30 PM",
+          "arrival_time": "09:00 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Goa",
+          "train_name": "Mumbai-Goa Express",
+          "train_number": "10103",
+          "departure_time": "10:00 PM",
+          "arrival_time": "10:30 AM (next day)",
+          "price": 1400
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Mumbai-Bangalore Express",
+          "train_number": "12657",
+          "departure_time": "11:30 PM",
+          "arrival_time": "12:00 PM (next day)",
+          "price": 1600
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Mumbai-Kochi Express",
+          "train_number": "12673",
+          "departure_time": "01:00 AM (next day)",
+          "arrival_time": "01:30 PM (next day)",
+          "price": 1600
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Mumbai-Chennai Express",
+          "train_number": "12679",
+          "departure_time": "02:30 AM (next day)",
+          "arrival_time": "03:00 PM (next day)",
+          "price": 1500
+      }
+  ],
+  "Agra": [
+      {
+          "to": "Delhi",
+          "train_name": "Mumbai Rajdhani",
+          "train_number": "12951",
+          "departure_time": "02:30 PM",
+          "arrival_time": "03:00 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Mumbai",
+          "train_name": "Mumbai Rajdhani",
+          "train_number": "12952",
+          "departure_time": "04:00 PM",
+          "arrival_time": "04:30 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Mumbai Express",
+          "train_number": "14563",
+          "departure_time": "05:30 PM",
+          "arrival_time": "06:00 AM (next day)",
+          "price": 1100
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Amritsar-Mumbai Express",
+          "train_number": "14564",
+          "departure_time": "07:00 PM",
+          "arrival_time": "07:30 AM (next day)",
+          "price": 1100
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Mumbai Express",
+          "train_number": "12957",
+          "departure_time": "08:30 PM",
+          "arrival_time": "09:00 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Goa",
+          "train_name": "Mumbai-Goa Express",
+          "train_number": "10103",
+          "departure_time": "10:00 PM",
+          "arrival_time": "10:30 AM (next day)",
+          "price": 1400
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Mumbai-Bangalore Express",
+          "train_number": "12657",
+          "departure_time": "11:30 PM",
+          "arrival_time": "12:00 PM (next day)",
+          "price": 1600
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Mumbai-Kochi Express",
+          "train_number": "12673",
+          "departure_time": "01:00 AM (next day)",
+          "arrival_time": "01:30 PM (next day)",
+          "price": 1600
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Mumbai-Chennai Express",
+          "train_number": "12679",
+          "departure_time": "02:30 AM (next day)",
+          "arrival_time": "03:00 PM (next day)",
+          "price": 1500
+      }
+  ],
+  "Shimla": [
+      {
+          "to": "Delhi",
+          "train_name": "Shimla-Delhi Express",
+          "train_number": "52451",
+          "departure_time": "06:00 AM",
+          "arrival_time": "11:45 AM",
+          "price": 800
+      },
+      {
+          "to": "Mumbai",
+          "train_name": "Shimla-Mumbai Express",
+          "train_number": "52453",
+          "departure_time": "08:00 AM",
+          "arrival_time": "02:45 PM",
+          "price": 1300
+      },
+      {
+          "to": "Agra",
+          "train_name": "Shimla-Agra Express",
+          "train_number": "52455",
+          "departure_time": "10:00 AM",
+          "arrival_time": "04:45 PM",
+          "price": 1100
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Shimla-Amritsar Express",
+          "train_number": "52457",
+          "departure_time": "12:00 PM",
+          "arrival_time": "06:45 PM",
+          "price": 1200
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Shimla-Jaipur Express",
+          "train_number": "52459",
+          "departure_time": "02:00 PM",
+          "arrival_time": "08:45 PM",
+          "price": 1400
+      },
+      {
+          "to": "Goa",
+          "train_name": "Shimla-Goa Express",
+          "train_number": "52461",
+          "departure_time": "04:00 PM",
+          "arrival_time": "10:45 PM",
+          "price": 1600
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Shimla-Bangalore Express",
+          "train_number": "52463",
+          "departure_time": "06:00 PM",
+          "arrival_time": "12:45 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Shimla-Kochi Express",
+          "train_number": "52465",
+          "departure_time": "08:00 PM",
+          "arrival_time": "02:45 AM (next day)",
+          "price": 1900
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Shimla-Chennai Express",
+          "train_number": "52467",
+          "departure_time": "10:00 PM",
+          "arrival_time": "04:45 AM (next day)",
+          "price": 2000
+      }
+  ],
+  "Amritsar": [
+      {
+          "to": "Delhi",
+          "train_name": "Amritsar-Delhi Express",
+          "train_number": "12311",
+          "departure_time": "06:00 AM",
+          "arrival_time": "10:30 AM",
+          "price": 700
+      },
+      {
+          "to": "Mumbai",
+          "train_name": "Amritsar-Mumbai Express",
+          "train_number": "12321",
+          "departure_time": "08:00 AM",
+          "arrival_time": "12:30 PM",
+          "price": 1200
+      },
+      {
+          "to": "Agra",
+          "train_name": "Agra-Amritsar Express",
+          "train_number": "12331",
+          "departure_time": "10:00 AM",
+          "arrival_time": "02:30 PM",
+          "price": 900
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Amritsar Express",
+          "train_number": "12341",
+          "departure_time": "12:00 PM",
+          "arrival_time": "04:30 PM",
+          "price": 1100
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Amritsar Express",
+          "train_number": "12351",
+          "departure_time": "02:00 PM",
+          "arrival_time": "06:30 PM",
+          "price": 1000
+      },
+      {
+          "to": "Goa",
+          "train_name": "Amritsar-Goa Express",
+          "train_number": "12361",
+          "departure_time": "04:00 PM",
+          "arrival_time": "08:30 PM",
+          "price": 1500
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Amritsar-Bangalore Express",
+          "train_number": "12371",
+          "departure_time": "06:00 PM",
+          "arrival_time": "10:30 PM",
+          "price": 1600
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Amritsar-Kochi Express",
+          "train_number": "12381",
+          "departure_time": "08:00 PM",
+          "arrival_time": "12:30 AM (next day)",
+          "price": 1700
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Amritsar-Chennai Express",
+          "train_number": "12391",
+          "departure_time": "10:00 PM",
+          "arrival_time": "02:30 AM (next day)",
+          "price": 1800
+      }
+  ],
+  "Jaipur": [
+      {
+          "to": "Delhi",
+          "train_name": "Jaipur-Delhi Express",
+          "train_number": "12985",
+          "departure_time": "06:00 AM",
+          "arrival_time": "10:00 AM",
+          "price": 700
+      },
+      {
+          "to": "Mumbai",
+          "train_name": "Jaipur-Mumbai Express",
+          "train_number": "12986",
+          "departure_time": "08:00 AM",
+          "arrival_time": "12:00 PM",
+          "price": 1200
+      },
+      {
+          "to": "Agra",
+          "train_name": "Agra-Jaipur Express",
+          "train_number": "12987",
+          "departure_time": "10:00 AM",
+          "arrival_time": "02:00 PM",
+          "price": 900
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Jaipur Express",
+          "train_number": "12988",
+          "departure_time": "12:00 PM",
+          "arrival_time": "04:00 PM",
+          "price": 1100
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Jaipur-Amritsar Express",
+          "train_number": "12989",
+          "departure_time": "02:00 PM",
+          "arrival_time": "06:00 PM",
+          "price": 1000
+      },
+      {
+          "to": "Goa",
+          "train_name": "Jaipur-Goa Express",
+          "train_number": "12990",
+          "departure_time": "04:00 PM",
+          "arrival_time": "08:00 PM",
+          "price": 1500
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Jaipur-Bangalore Express",
+          "train_number": "12991",
+          "departure_time": "06:00 PM",
+          "arrival_time": "10:00 PM",
+          "price": 1600
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Jaipur-Kochi Express",
+          "train_number": "12992",
+          "departure_time": "08:00 PM",
+          "arrival_time": "12:00 AM (next day)",
+          "price": 1700
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Jaipur-Chennai Express",
+          "train_number": "12993",
+          "departure_time": "10:00 PM",
+          "arrival_time": "02:00 AM (next day)",
+          "price": 1800
+      }
+  ],
+  "Goa": [
+      {
+          "to": "Mumbai",
+          "train_name": "Mumbai-Goa Express",
+          "train_number": "10104",
+          "departure_time": "01:00 AM (next day)",
+          "arrival_time": "01:30 PM",
+          "price": 1400
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Goa-Bangalore Express",
+          "train_number": "17309",
+          "departure_time": "03:00 AM (next day)",
+          "arrival_time": "03:30 PM",
+          "price": 1600
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Goa-Kochi Express",
+          "train_number": "16339",
+          "departure_time": "05:00 AM (next day)",
+          "arrival_time": "05:30 PM",
+          "price": 1500
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Goa-Chennai Express",
+          "train_number": "17315",
+          "departure_time": "07:00 AM (next day)",
+          "arrival_time": "07:30 PM",
+          "price": 1700
+      },
+      {
+          "to": "Delhi",
+          "train_name": "Delhi-Goa Express",
+          "train_number": "17311",
+          "departure_time": "09:00 AM (next day)",
+          "arrival_time": "09:30 PM",
+          "price": 1800
+      },
+      {
+          "to": "Agra",
+          "train_name": "Agra-Goa Express",
+          "train_number": "17319",
+          "departure_time": "11:00 AM (next day)",
+          "arrival_time": "11:30 PM",
+          "price": 1900
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Goa Express",
+          "train_number": "17321",
+          "departure_time": "01:00 PM (next day)",
+          "arrival_time": "01:30 AM (2 days later)",
+          "price": 2000
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Amritsar-Goa Express",
+          "train_number": "17323",
+          "departure_time": "03:00 PM (next day)",
+          "arrival_time": "03:30 AM (2 days later)",
+          "price": 2100
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Goa Express",
+          "train_number": "17325",
+          "departure_time": "05:00 PM (next day)",
+          "arrival_time": "05:30 AM (2 days later)",
+          "price": 2200
+      }
+  ],
+  "Bangalore": [
+      {
+          "to": "Mumbai",
+          "train_name": "Mumbai-Bangalore Express",
+          "train_number": "12658",
+          "departure_time": "08:00 AM",
+          "arrival_time": "08:30 PM",
+          "price": 1600
+      },
+      {
+          "to": "Goa",
+          "train_name": "Goa-Bangalore Express",
+          "train_number": "17310",
+          "departure_time": "10:00 AM",
+          "arrival_time": "10:30 PM",
+          "price": 1700
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Kochi-Bangalore Express",
+          "train_number": "16340",
+          "departure_time": "12:00 PM",
+          "arrival_time": "12:30 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Chennai-Bangalore Express",
+          "train_number": "12609",
+          "departure_time": "02:00 PM",
+          "arrival_time": "02:30 AM (next day)",
+          "price": 1400
+      },
+      {
+          "to": "Delhi",
+          "train_name": "Delhi-Bangalore Express",
+          "train_number": "22691",
+          "departure_time": "04:00 PM",
+          "arrival_time": "04:30 AM (next day)",
+          "price": 2000
+      },
+      {
+          "to": "Agra",
+          "train_name": "Agra-Bangalore Express",
+          "train_number": "17603",
+          "departure_time": "06:00 PM",
+          "arrival_time": "06:30 AM (next day)",
+          "price": 2100
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Bangalore Express",
+          "train_number": "24493",
+          "departure_time": "08:00 PM",
+          "arrival_time": "08:30 AM (next day)",
+          "price": 2200
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Amritsar-Bangalore Express",
+          "train_number": "18464",
+          "departure_time": "10:00 PM",
+          "arrival_time": "10:30 AM (next day)",
+          "price": 2300
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Bangalore Express",
+          "train_number": "22697",
+          "departure_time": "12:00 AM (next day)",
+          "arrival_time": "12:30 PM",
+          "price": 2400
+      }
+  ],
+  "Kochi": [
+      {
+          "to": "Mumbai",
+          "train_name": "Mumbai-Kochi Express",
+          "train_number": "12674",
+          "departure_time": "08:00 AM",
+          "arrival_time": "08:30 PM",
+          "price": 1600
+      },
+      {
+          "to": "Goa",
+          "train_name": "Goa-Kochi Express",
+          "train_number": "16347",
+          "departure_time": "10:00 AM",
+          "arrival_time": "10:30 PM",
+          "price": 1700
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Kochi-Bangalore Express",
+          "train_number": "12677",
+          "departure_time": "12:00 PM",
+          "arrival_time": "12:30 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Chennai",
+          "train_name": "Kochi-Chennai Express",
+          "train_number": "22639",
+          "departure_time": "02:00 PM",
+          "arrival_time": "02:30 AM (next day)",
+          "price": 1400
+      },
+      {
+          "to": "Delhi",
+          "train_name": "Delhi-Kochi Express",
+          "train_number": "12283",
+          "departure_time": "04:00 PM",
+          "arrival_time": "04:30 AM (next day)",
+          "price": 2000
+      },
+      {
+          "to": "Agra",
+          "train_name": "Agra-Kochi Express",
+          "train_number": "16316",
+          "departure_time": "06:00 PM",
+          "arrival_time": "06:30 AM (next day)",
+          "price": 2100
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Kochi Express",
+          "train_number": "52483",
+          "departure_time": "08:00 PM",
+          "arrival_time": "08:30 AM (next day)",
+          "price": 2200
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Amritsar-Kochi Express",
+          "train_number": "12484",
+          "departure_time": "10:00 PM",
+          "arrival_time": "10:30 AM (next day)",
+          "price": 2300
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Kochi Express",
+          "train_number": "16345",
+          "departure_time": "12:00 AM (next day)",
+          "arrival_time": "12:30 PM",
+          "price": 2400
+      }
+  ],
+  "Chennai": [
+      {
+          "to": "Mumbai",
+          "train_name": "Mumbai-Chennai Express",
+          "train_number": "12680",
+          "departure_time": "08:00 AM",
+          "arrival_time": "08:30 PM",
+          "price": 1500
+      },
+      {
+          "to": "Goa",
+          "train_name": "Goa-Chennai Express",
+          "train_number": "17314",
+          "departure_time": "10:00 AM",
+          "arrival_time": "10:30 PM",
+          "price": 1700
+      },
+      {
+          "to": "Bangalore",
+          "train_name": "Chennai-Bangalore Express",
+          "train_number": "12610",
+          "departure_time": "12:00 PM",
+          "arrival_time": "12:30 AM (next day)",
+          "price": 1400
+      },
+      {
+          "to": "Kochi",
+          "train_name": "Kochi-Chennai Express",
+          "train_number": "22640",
+          "departure_time": "02:00 PM",
+          "arrival_time": "02:30 AM (next day)",
+          "price": 1600
+      },
+      {
+          "to": "Delhi",
+          "train_name": "Delhi-Chennai Express",
+          "train_number": "12622",
+          "departure_time": "04:00 PM",
+          "arrival_time": "04:30 AM (next day)",
+          "price": 1800
+      },
+      {
+          "to": "Agra",
+          "train_name": "Agra-Chennai Express",
+          "train_number": "17644",
+          "departure_time": "06:00 PM",
+          "arrival_time": "06:30 AM (next day)",
+          "price": 2000
+      },
+      {
+          "to": "Shimla",
+          "train_name": "Shimla-Chennai Express",
+          "train_number": "22452",
+          "departure_time": "08:00 PM",
+          "arrival_time": "08:30 AM (next day)",
+          "price": 2200
+      },
+      {
+          "to": "Amritsar",
+          "train_name": "Amritsar-Chennai Express",
+          "train_number": "16032",
+          "departure_time": "10:00 PM",
+          "arrival_time": "10:30 AM (next day)",
+          "price": 2400
+      },
+      {
+          "to": "Jaipur",
+          "train_name": "Jaipur-Chennai Express",
+          "train_number": "12694",
+          "departure_time": "12:00 AM (next day)",
+          "arrival_time": "12:30 PM",
+          "price": 2200
+      }
+  ]
+}

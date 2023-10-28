@@ -1,0 +1,657 @@
+{
+    "North": [
+      {
+        "City": "Delhi",
+        "Locations": [
+          {
+            "Place Name": "India Gate",
+            "Description": "War memorial and iconic landmark in the heart of Delhi.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "500"
+          },
+          {
+            "Place Name": "Qutub Minar",
+            "Description": "Tallest brick minaret in the world with intricate carvings.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Red Fort",
+            "Description": "Historic fort complex with impressive architecture.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "600"
+          },
+          {
+            "Place Name": "Humayun's Tomb",
+            "Description": "Mughal garden tomb and UNESCO World Heritage Site.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "700"
+          },
+          {
+            "Place Name": "Lotus Temple",
+            "Description": "Bahá'í House of Worship known for its lotus-like shape.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Akshardham Temple",
+            "Description": "Hindu temple complex with grand architecture and exhibitions.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Jama Masjid",
+            "Description": "Largest mosque in India with a stunning courtyard.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Chandni Chowk",
+            "Description": "Historic market street with bustling shops and eateries.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "100"
+          },
+          {
+            "Place Name": "Gandhi Smriti",
+            "Description": "Museum at the location where Mahatma Gandhi was assassinated.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "National Museum",
+            "Description": "Museum showcasing India's rich history and art.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "300"
+          }
+        ]
+      },
+      {
+        "City": "Shimla",
+        "Locations": [
+          {
+            "Place Name": "The Ridge",
+            "Description": "Scenic viewpoint in the capital of Himachal Pradesh.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person(INR)": "600"
+          },
+          {
+            "Place Name": "Mall Road",
+            "Description": "Famous shopping and dining street in Shimla.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Jakhoo Temple",
+            "Description": "Hindu temple dedicated to Lord Hanuman with panoramic views.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Kufri",
+            "Description": "Hill station known for its picturesque landscapes.",
+            "Travel Time (hours)": "2",
+            "Budget Per Person (INR)": "800"
+          },
+          {
+            "Place Name": "Christ Church",
+            "Description": "Neo-Gothic style church with beautiful stained glass windows.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Shimla State Museum",
+            "Description": "Museum showcasing Himachal Pradesh's cultural heritage.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Kali Bari Temple",
+            "Description": "Hindu temple dedicated to Goddess Kali.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Tara Devi Temple",
+            "Description": "Hindu temple on a hilltop with panoramic views.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Annandale",
+            "Description": "Historic playground with golf course and scenic views.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Chail",
+            "Description": "Hill station known for its lush greenery and wildlife sanctuary.",
+            "Travel Time (hours)": "3",
+            "Budget Per Person (INR)": "1000"
+          }
+        ]
+      },
+      {
+        "City": "Agra",
+        "Locations": [
+          {
+            "Place Name": "Taj Mahal",
+            "Description": "World-famous white marble mausoleum.",
+            "Travel Time (hours)": "2",
+            "Budget Per Person (INR)": "1000"
+          },
+          {
+            "Place Name": "Agra Fort",
+            "Description": "Historic fort with impressive architecture and history.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "500"
+          },
+          {
+            "Place Name": "Fatehpur Sikri",
+            "Description": "Mughal city with well-preserved architecture and history.",
+            "Travel Time (hours)": "2",
+            "Budget Per Person (INR)": "700"
+          },
+          {
+            "Place Name": "Mehtab Bagh",
+            "Description": "Charbagh complex offering stunning views of the Taj Mahal.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Jama Masjid",
+            "Description": "Historic mosque with beautiful architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Itimad-ud-Daulah's Tomb",
+            "Description": "Mausoleum often called the 'Baby Taj.'",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Tomb of Akbar the Great",
+            "Description": "Mausoleum of the Mughal Emperor Akbar.",
+            "Travel Time (hours)": "1.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Mariam's Tomb",
+            "Description": "Mausoleum dedicated to Mariam-uz-Zamani.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Chini Ka Rauza",
+            "Description": "Mausoleum known for its Persian-style glazed tile work.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Ram Bagh",
+            "Description": "Historic Mughal garden with water channels.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "200"
+          }
+        ]
+      },
+      {
+        "City": "Jaipur",
+        "Locations": [
+          {
+            "Place Name": "Hawa Mahal",
+            "Description": "Palace of Winds known for its unique architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "700"
+          },
+          {
+            "Place Name": "Amber Fort",
+            "Description": "Impressive hilltop fort with intricate design and history.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "800"
+          },
+          {
+            "Place Name": "City Palace",
+            "Description": "Royal palace with museums and courtyards.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "500"
+          },
+          {
+            "Place Name": "Jantar Mantar",
+            "Description": "Astronomical observatory with unique stone instruments.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Nahargarh Fort",
+            "Description": "Hilltop fort offering panoramic views of Jaipur.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "600"
+          },
+          {
+            "Place Name": "Jaigarh Fort",
+            "Description": "Fort with the world's largest cannon on wheels.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Albert Hall Museum",
+            "Description": "Museum showcasing art and artifacts.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Galta Ji Temple",
+            "Description": "Hindu temple complex known for its natural springs.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Sisodia Rani Garden",
+            "Description": "Mughal-style garden with fountains and pavilions.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Birla Mandir",
+            "Description": "Modern Hindu temple with stunning architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          }
+        ]
+      },
+      {
+        "City": "Amritsar",
+        "Locations": [
+          {
+            "Place Name": "Golden Temple",
+            "Description": "Spiritual and cultural center of the Sikh religion.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Jallianwala Bagh",
+            "Description": "Historic public garden with a tragic history.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "100"
+          },
+          {
+            "Place Name": "Wagah Border",
+            "Description": "Border crossing ceremony between India and Pakistan.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Durgiana Temple",
+            "Description": "Hindu temple dedicated to Goddess Durga.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Gobindgarh Fort",
+            "Description": "Historic fort with museums and cultural activities.",
+            "Travel Time (hours)": "1.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Maharaja Ranjit Singh Museum",
+            "Description": "Museum showcasing the life of Maharaja Ranjit Singh.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Gurudwara Baba Atal Sahib",
+            "Description": "Sikh religious site with impressive architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Ram Tirath Temple",
+            "Description": "Historic Hindu temple with mythological significance.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Partition Museum",
+            "Description": "Museum dedicated to the history of the Partition of India.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Gurudwara Santokhsar Sahib",
+            "Description": "Sikh religious site with a holy sarovar (pool).",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          }
+        ]
+      }
+    ],
+    "South": [
+      {
+        "City": "Mumbai",
+        "Locations": [
+          {
+            "Place Name": "Gateway of India",
+            "Description": "Iconic monument overlooking the Arabian Sea.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "800"
+          },
+          {
+            "Place Name": "Chhatrapati Shivaji Terminus",
+            "Description": "Historic railway station with Victorian Gothic architecture.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Marine Drive",
+            "Description": "Promenade along the Arabian Sea with stunning views.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Elephanta Caves",
+            "Description": "UNESCO World Heritage Site with ancient cave temples.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "600"
+          },
+          {
+            "Place Name": "Colaba Causeway",
+            "Description": "Shopping street with a variety of shops and street food.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Haji Ali Dargah",
+            "Description": "Islamic shrine located in the Arabian Sea.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Siddhivinayak Temple",
+            "Description": "Hindu temple dedicated to Lord Ganesha.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Sanjay Gandhi National Park",
+            "Description": "Large national park with diverse flora and fauna.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Juhu Beach",
+            "Description": "Popular beach destination with food stalls.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Dharavi Slum",
+            "Description": "Community tour providing insights into urban life.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "100"
+          }
+        ]
+      },
+      {
+        "City": "Bangalore",
+        "Locations": [
+          {
+            "Place Name": "Lalbagh Botanical Garden",
+            "Description": "Historic garden with diverse plant species.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Bangalore Palace",
+            "Description": "Majestic palace with a blend of Tudor and Scottish architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Cubbon Park",
+            "Description": "Green oasis in the heart of the city with a variety of trees.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Tipu Sultan's Summer Palace",
+            "Description": "Historic palace showcasing the reign of Tipu Sultan.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Bannerghatta Biological Park",
+            "Description": "Zoological park with a safari and diverse wildlife.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "500"
+          },
+          {
+            "Place Name": "ISKCON Temple Bangalore",
+            "Description": "Hindu temple dedicated to Lord Krishna.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Vidhana Soudha",
+            "Description": "Seat of the state legislature of Karnataka with grand architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Nandi Hills",
+            "Description": "Hill station with breathtaking views and trekking trails.",
+            "Travel Time (hours)": "2",
+            "Budget Per Person (INR)": "800"
+          },
+          {
+            "Place Name": "Ulsoor Lake",
+            "Description": "Picturesque lake offering boating and recreational activities.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Bangalore Fort",
+            "Description": "Historic fort with a fascinating past.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          }
+        ]
+      },
+      {
+        "City": "Chennai",
+        "Locations": [
+          {
+            "Place Name": "Marina Beach",
+            "Description": "Longest urban beach in India.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Kapaleeshwarar Temple",
+            "Description": "Ancient Hindu temple known for its Dravidian architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Fort St. George",
+            "Description": "Historic fort and the first British fortress in India.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Elliots Beach",
+            "Description": "Scenic beach with a relaxed atmosphere.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Government Museum, Chennai",
+            "Description": "Museum showcasing art, archaeology, and numismatics.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Vivekananda House",
+            "Description": "Historic house associated with Swami Vivekananda.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Arignar Anna Zoological Park",
+            "Description": "Zoo with a wide variety of animals and a safari park.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "500"
+          },
+          {
+            "Place Name": "Guindy National Park",
+            "Description": "National park with diverse flora and fauna.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "St. Thomas Mount",
+            "Description": "Hill with a church and panoramic views of Chennai.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Marundeeswarar Temple",
+            "Description": "Hindu temple dedicated to Lord Shiva.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          }
+        ]
+      },
+      {
+        "City": "Kochi",
+        "Locations": [
+          {
+            "Place Name": "Fort Kochi",
+            "Description": "Historic neighborhood with European influence.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "600"
+          },
+          {
+            "Place Name": "Mattancherry Palace",
+            "Description": "Museum with exhibits on the history of Kochi.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Chinese Fishing Nets",
+            "Description": "Unique fishing technique and a popular photo spot.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "St. Francis Church",
+            "Description": "Historic church with a rich history.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Jew Town",
+            "Description": "Antique shops and spice markets in Mattancherry.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Marine Drive, Kochi",
+            "Description": "Promenade along the backwaters with scenic views.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Hill Palace Museum",
+            "Description": "Museum with art, artifacts, and archaeological exhibits.",
+            "Travel Time (hours)": "0.75",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Paradesi Synagogue",
+            "Description": "Historic Jewish synagogue with intricate interiors.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Cherai Beach",
+            "Description": "Picturesque beach with serene surroundings.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          },
+          {
+            "Place Name": "Veeranpuzha Beach",
+            "Description": "Less crowded beach with beautiful views.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          }
+        ]
+      },
+      {
+        "City": "Goa",
+        "Locations": [
+          {
+            "Place Name": "Baga Beach",
+            "Description": "Famous beach destination in India.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "700"
+          },
+          {
+            "Place Name": "Calangute Beach",
+            "Description": "Popular beach with water sports and vibrant nightlife.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "500"
+          },
+          {
+            "Place Name": "Anjuna Beach",
+            "Description": "Beach known for its laid-back atmosphere and flea markets.",
+            "Travel Time (hours)": "0.25",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Fort Aguada",
+            "Description": "Historic fort with panoramic views and a lighthouse.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Dudhsagar Waterfalls",
+            "Description": "Spectacular waterfalls surrounded by lush greenery.",
+            "Travel Time (hours)": "2",
+            "Budget Per Person (INR)": "800"
+          },
+          {
+            "Place Name": "Chapora Fort",
+            "Description": "Ruined fort offering views of the Arabian Sea.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Cabo de Rama",
+            "Description": "Scenic viewpoint with a fort overlooking the sea.",
+            "Travel Time (hours)": "1",
+            "Budget Per Person (INR)": "600"
+          },
+          {
+            "Place Name": "Bom Jesus Basilica",
+            "Description": "Historic church housing the mortal remains of St. Francis Xavier.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "300"
+          },
+          {
+            "Place Name": "Se Cathedral",
+            "Description": "Catholic cathedral with Portuguese architecture.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "400"
+          },
+          {
+            "Place Name": "Naval Aviation Museum",
+            "Description": "Museum showcasing India's naval aviation history.",
+            "Travel Time (hours)": "0.5",
+            "Budget Per Person (INR)": "200"
+          }
+        ]
+      }
+    ]
+  }
+  
